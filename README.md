@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 <p align="center">
 <img width="600" height="300" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" al  t="Defcon27's Github Stats" /> 
 
+![Snake animation](https://github.com/ghosharnab00/ghosharnab00/blob/output/github-contribution-grid-snake.svg)
