@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;&nbsp; 
 
  <br />
+ <div align="left"> 
+  <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Languages and tools</h1>
+  <div style="display: inline_block">
 <div style="display: inline_block"><br>
   <img align="center" alt="Wanderson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wanderson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
