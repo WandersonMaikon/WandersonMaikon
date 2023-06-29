@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### ***Connect with me :***
+### ***Entre em contato comigo :***
 
 <a href="https://www.linkedin.com/in/iamarnabghosh">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
