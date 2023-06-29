@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/iamarnabghosh">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:ghosharnab00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:wandersonmaikon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/arnabghosh_co">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="twitter" style="vertical-align:top; margin:4px; width:50px">
 </a>&nbsp;&nbsp;&nbsp; 
