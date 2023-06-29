@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ***Entre em contato comigo :***
 
-<a href="https://www.linkedin.com/in/iamarnabghosh">
+<a href="www.linkedin.com/in/wanderson-maikon-a88a23b1">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:wandersonmaikon@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
