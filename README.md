@@ -27,5 +27,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Wanderson-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 <p align="center">
-<img width="600" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" al  t="Defcon27's Github Stats" /> 
+<img width="600" height="600" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" al  t="Defcon27's Github Stats" /> 
 
